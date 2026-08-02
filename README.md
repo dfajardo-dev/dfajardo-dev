@@ -10,10 +10,7 @@ Full-stack web developer in training, currently working toward my B.S. in Softwa
 
 📫 Reach me here on GitHub — feel free to check out my repos below
 
-Tech I've worked with
+Tech I've worked with: Python, Java, C++
 
-Python Java C++
-
-What I'm learning next
-
+What I'm learning next:
 Full-stack web technologies — HTML/CSS, JavaScript, and modern frameworks — to round out my backend fundamentals with front-end and API skills.

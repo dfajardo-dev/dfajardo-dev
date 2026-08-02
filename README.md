@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Daniel Fajardo 👋
 
-<!--
-**dfajardo-dev/dfajardo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer in training, currently working toward my B.S. in Software Engineering.
 
-Here are some ideas to get you started:
+🎓 A.A. from Florida SouthWestern State College (FSW), currently pursuing a B.S. in Software Engineering at Florida Gulf Coast University (FGCU)
+💻 Comfortable with Python, Java, and C++
+🌱 Building toward full-stack web development (JavaScript/TypeScript, React, Node, SQL)
+📫 Reach me here on GitHub — feel free to check out my repos below
+Tech I've worked with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python Java C++
+
+What I'm learning next
+
+Full-stack web technologies — HTML/CSS, JavaScript, and modern frameworks — to round out my backend fundamentals with front-end and API skills.
